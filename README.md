@@ -1,70 +1,139 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- TABLE OF CONTENTS -->
 
-## Available Scripts
+# 📗 Table of Contents
 
-In the project directory, you can run:
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+    - [Future Features](#future-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Test](#test)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-### `npm start`
+<!-- PROJECT DESCRIPTION -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 📖 REACT TODO LIST <a name="about-project"></a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**REACT TODO LIST ** This project is a To-Do List application created using REACT and JavaScript libraries
 
-### `npm test`
+## 🛠 Built With <a name="built-with"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Tech Stack <a name="tech-stack"></a>
 
-### `npm run build`
+<details>
+  <summary>Client</summary>
+    - HTML
+    - CSS
+    - JavaScript
+    - Webpack
+    - REACT
+</details>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- Features -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Key Features <a name="key-features"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Ability to add new tasks**
+- **Edit and update task descriptions.**
+- **Delete tasks from the list**
 
-### `npm run eject`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Future Features <a name="future-features"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Implement a Database**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 💻 Getting Started <a name="getting-started"></a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To get a local copy up and running, follow these steps.
 
-## Learn More
+### Setup
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Clone this repository to your desired folder:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+git clone https://github.com/ahmidou09/react-todo-app.git
+cd react-todo-app
+code . (To open VS Code Editor)
+```
 
-### Code Splitting
+Then, you will change everything you want!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Commands
 
-### Analyzing the Bundle Size
+- ✔️ _npm start_:
+  Runs the app in the development mode. Open http://localhost:3000 to view it in the browser.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- ✔️ _npm test_:
+  Launches the test runner in the interactive watch mode. See the section about running tests for more information.
 
-### Making a Progressive Web App
+- ✔️ _npm run build_:
+  Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Test
 
-### Advanced Configuration
+In order to follow the Linters you could check them using this:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```
+CSS Checker:
+npx stylelint "**/*.{css,scss}"
 
-### Deployment
+ESLint Checker:
+npx eslint "**/*.{js,jsx}"
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+#### Note
 
-### `npm run build` fails to minify
+Use at the end '--fix' to help you out with any error.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 👥 Authors <a name="authors"></a>
+
+👤 **El mehdi Ahmidou**
+
+- GitHub: [@ahmidou09](https://github.com/ahmidou09)
+- Twitter: [@el_ahmidou](https://twitter.com/el_ahmidou)
+- LinkedIn: [el mehdi ahmidou](https://www.linkedin.com/in/el-mehdi-ahmidou-312590125/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+All contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/ahmidou09/react-todo-app/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐ Show your support <a name="support"></a>
+
+If you like this project, please support me with a like or a star.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+Thanks to my learning partners and the staff at Microverse.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
