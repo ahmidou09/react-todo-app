@@ -9,6 +9,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
     - [Future Features](#future-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Test](#test)
@@ -50,6 +51,13 @@
 ### Future Features <a name="future-features"></a>
 
 - **Implement a Database**
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://todo-app-1-kqsv.onrender.com/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
